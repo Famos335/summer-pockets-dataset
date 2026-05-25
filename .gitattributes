@@ -1,0 +1,4 @@
+*.7z binary
+*.sqlite binary
+*.md text eol=lf
+*.py text eol=lf
